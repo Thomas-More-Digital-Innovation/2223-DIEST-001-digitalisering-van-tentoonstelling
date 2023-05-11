@@ -38,4 +38,8 @@ toevoegingen: POC's van concepten en budget schatting per concept
 
 ## Opstellen van nieuwe doelstelling voor een volgende meeting
 * Pitch opstellen die we ook zouden moeten geven aan het natuurpunt. Eerst voorstellen aan Bram om dan te zien of we deze pitch ook zo kunnen geven aan het natuurpunt
+* Taak verdeling per concept:
+  * Siebe: soldaat/inwoner/bekend figuur + Maquette
+  * Nick: Doorheen heel de tentoonstelling + Interactieve kaart
+  * Marnik: Levenscyclus van de vleermuis + De kenmerken van een vleermuis 
 * **DEADLINE HIERVOOR: 19-06**
