@@ -57,3 +57,41 @@ Daarnaast heeft Unity een actieve community van ontwikkelaars die elkaar onderst
 
 Hier is een link naar een goede tutorial om te beginnen met Unity: https://learn.unity.com/tutorial/getting-started-with-unity. Deze tutorial leert je de basisprincipes van Unity en hoe je een eenvoudig spel kunt maken.
 
+## ARCore of ARKit
+ARCore en ARKit zijn de twee meest gebruikte AR-frameworks voor Unity. Hieronder volgen de belangrijkste verschillen tussen ARCore en ARKit:
+
+1. Platformondersteuning: ARCore is ontwikkeld door Google en is beschikbaar op Android-apparaten, terwijl ARKit is ontwikkeld door Apple en beschikbaar is op iOS-apparaten.
+
+2. Objectdetectie: ARCore biedt ondersteuning voor objectdetectie en tracking, terwijl ARKit momenteel alleen objecttracking ondersteunt.
+
+3. Omgevingsdetectie: ARKit biedt een geavanceerde omgevingsdetectie en ondersteuning voor ruimtelijke mapping, terwijl ARCore momenteel geen volledige ondersteuning biedt voor omgevingsdetectie.
+
+4. Ondersteuning voor verschillende apparaten: ARCore biedt ondersteuning voor een breed scala aan Android-apparaten, terwijl ARKit alleen beschikbaar is op iOS-apparaten.
+
+Het kiezen van het beste framework hangt af van de specifieke vereisten van de AR-toepassing die je wilt ontwikkelen. Als je een AR-toepassing voor Android wilt ontwikkelen, is ARCore de beste keuze, terwijl ARKit de beste keuze is voor iOS-toepassingen. Als je echter geavanceerde functies zoals objectdetectie of omgevingsdetectie nodig hebt, moet je ARKit overwegen.
+
+Hier is een tutorial over ARCore: https://www.youtube.com/watch?v=9Xf-5zSyUkw 
+
+En hier is een tutorial over ARKit: https://www.youtube.com/watch?v=gJ-i4FMh9zc
+
+## 3D-modellen en assets
+3D-modellen en assets zijn essentiële componenten van elke Unity-AR-ervaring. Ze kunnen bestaan uit objecten, texturen, animaties en geluiden die samenwerken om een virtuele omgeving te creëren. Gelukkig zijn er tal van gratis 3D-modellen en assets beschikbaar die je kunt downloaden en gebruiken in je Unity-projecten.
+
+Er zijn veel online bronnen waar je gratis 3D-modellen en assets kunt vinden, zoals Sketchfab, TurboSquid, en Unity Asset Store. Deze resources zijn handig als je snel 3D-modellen en assets wilt vinden voor je project. 
+
+Je kunt ook je eigen 3D-modellen en assets maken met behulp van 3D-modelleringssoftware, zoals Blender of Autodesk Maya. Dit kan wel enige kennis en vaardigheden vereisen, maar er zijn ook tal van online tutorials beschikbaar die je kunnen helpen bij het maken van je eigen 3D-modellen en assets.
+
+Door het gebruik van gratis 3D-modellen en assets en het zelf maken van modellen en assets, kun je de kosten van je AR-project laag houden en toch een hoge kwaliteit en professionele uitstraling behouden.
+
+## Mogelijk uitwerkbare POC's
+Hier zijn drie voorbeelden van POC's die je kunt maken in Unity:
+
+* Basis van AR in Unity (https://youtu.be/FWyTf3USDCQ)
+* Rondvliegende draak (https://www.youtube.com/watch?v=GfS72wqKQ_g)
+* Roomscan en avatar (https://youtu.be/VMis54yektk)
+
+Om een POC in Unity te maken, moet je eerst een duidelijk idee hebben van wat je wilt maken en wat de belangrijkste functies en interacties zullen zijn. Vervolgens kun je beginnen met het bouwen van je AR-ervaring door gebruik te maken van de AR-tools in Unity, zoals ARCore of ARKit, afhankelijk van je doelplatform.
+
+Daarnaast kun je gebruik maken van gratis 3D-modellen en assets die beschikbaar zijn op de Unity Asset Store of zelfgemaakte 3D-modellen en assets om je AR-ervaring te verbeteren en aan te passen aan je specifieke vereisten.
+
+Met behulp van tutorials en online resources, zoals de video's hierboven genoemd, kun je snel en gemakkelijk je eigen AR-POC maken in Unity, waarmee je jouw ideeën en concepten kunt demonstreren en laten zien hoe deze werken in de echte wereld.
