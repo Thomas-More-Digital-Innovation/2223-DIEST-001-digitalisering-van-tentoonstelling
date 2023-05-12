@@ -1,4 +1,4 @@
-# Concept uitwerking levenscyclus van de vleermuis
+# Verdere concept uitwerking (Marnik Maes)
 
 ## Eerste concept: POV van een vleermuis
 ### Het idee / concept
