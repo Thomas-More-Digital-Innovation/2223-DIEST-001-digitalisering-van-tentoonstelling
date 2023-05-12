@@ -1,2 +1,61 @@
 # Concept uitwerking levenscyclus van de vleermuis
 
+## Eerste concept: POV van een vleermuis
+### Het idee / concept
+Een van onze innovatieve concepten om mensen een unieke en volledig gedigitaliseerde vleermuiservaring te bieden, omvat het gebruik van kartonnen VR-brillen en goedkope oortjes. Door verschillende videofragmenten om te vormen tot VR-fragmenten, kunnen mensen de levenscyclus van een vleermuis op een meeslepende manier leren kennen. Met onze betaalbare VR-technologie kunnen we deze ervaring toegankelijk maken voor een breder publiek en tegelijkertijd bijdragen aan het bewustzijn en begrip van deze fascinerende dieren.
+
+Met dit concept zijn de mogelijkheden werkelijk eindeloos. We kunnen bijvoorbeeld een onvergetelijke tour door Fort Leopold bieden, en met behuld van een drone kunnen we beelden vastleggen die anders ontoegankelijk zouden zijn. Maar waarom zouden we ons beperken tot alleen het fort? We kunnen de hele stad Diest verkennen op dezelfde meeslepende manier.Door simpelweg onze app te downloaden en op specifieke locaties codes in te scannen, kunnen gebruikers op elk moment toegang krijgen tot deze fascinerende VR-fragmenten. En het beste van alles? Het enige wat ze nodig hebben is hun telefoon en de kartonnen VR-bril.
+
+### Wat hebben we nodig? 
+Ten eerste de kartonnen VR-bril: https://www.budgetgift.nl/budget-vr-bril-360032.html?v=36003201&fv=1&fa=1000
+* Deze kan je zo in elkaar zetten: https://www.youtube.com/watch?v=pfhvXqheni8
+* Deze kunnen we ofwel aanschaffen of zelf in elkaar steken
+
+Ten tweede, goedekope oortjes zodat mensen kunnen meeluisteren: [Wired oortjes](https://www.aliexpress.com/item/1005003621610499.html?spm=a2g0o.productlist.main.11.41fc52bepPanl0&algo_pvid=03713c46-3090-4c52-92fb-609687150c20&algo_exp_id=03713c46-3090-4c52-92fb-609687150c20-6&pdp_npi=3%40dis%21EUR%210.27%210.15%21%21%21%21%21%402102186a16838771252954206d077f%2112000026531893107%21sea%21BE%210&curPageLogUid=3Ui0j1BEAafV)
+* Nadeel hiervan: niet iedereen heeft nog een gsm met headphone jack dus voor het best case scenario hebben 3 soorten oortjes nodig: Headphone jack, Apple lightning, USB-C
+
+Ten slotte een e .mp4-bestanden omvormen tot VR fragmenten: https://www.youtube.com/watch?v=FEHpytd4UWY
+
+### Schatting van de prijs: 
+
+1. Kartonnen VR-brillen in bulk aankoop: 
+   * Per 1000 stuks tussen €1500 - €1600 | stuk prijs is meestal rond de €1.5
+   * [Kartonnen VR-brillen 1000 stuks](https://www.promostore.nl/vr-bril-van-karton-302884.html?source=googleps&mp=1&gclid=CjwKCAjwx_eiBhBGEiwA15gLNxne0LkVWhEcTg_-dq2DWOcNEYxuC_DKWpZcmJdd2_gVIeQsd7OC6BoCWC4QAvD_BwE)
+2. Oortjes voor bij de VR-brillen:
+   * standaard 3.5mm, 1000 stuks = € 461,47 incl. VAT
+     * [3.5mm oortjes](https://www.aliexpress.com/item/1005003258564515.html?spm=a2g0o.cart.0.0.6e3f38dazZsOcU&mp=1) 
+   * Lightning oortjes, tussen € 0.95 - € 1,50 excl. VAT
+   * USB C oortjes, tussen € 0.80 - € 0.90 excl. VAT
+3. Drone piloot voor het opnemen van de video's:
+   * Voor het inhuren van een professionele dronepiloot kan de prijs variëren tussen de € 200 tot € 500 per uur
+
+**Totaal prijs zal volgens mijn ruwe schatting (gebaseerd op dat we van alles 1000 stuks willen) rond de € 3000 zijn.**
+
+---
+
+## Tweede concept: Wat eet een vleermuis arcade
+### Het idee / concept
+
+Ons tweede concept omvat de ontwikkeling van een innovatieve arcadekast, waarin je het spel "Wat eet een vleermuis" kunt spelen. Dit unieke spel is gebaseerd op het populaire Osu catch-principe. In onze game zal de speler een vleermuis besturen met als doel heeft de juiste voedingsmiddelen op te rapen terwijl deze uit de lucht vallen. Voor elk correct opgepikt item verdient de speler punten, maar als hij het verkeerde item opraapt, verliest hij een leven. Elke speler krijgt drie levens, dus drie kansen om de hoogst mogelijke score te behalen.
+
+### Wat hebben we nodig? 
+
+Ten eerste een aantal basis IoT componenten voor de hardware kant. 
+   * RaspberryPi voor het runnen van de game en het verwerken van de controls
+   * Drukknoppen die dienen als de links en rechts controls
+   * (leds, speakers, ...) 
+
+Ten tweede een oude arcade kast of materiaal voor zelf een te bouwen. Hiervoor zouden we dan wel de hulp inschakelen van eventueel een andere richting binnen de Thomas More of andere school.
+   * Zelfbouw arcade kast pakket: [Talentec Bartop Kit](https://www.amazon.com.be/-/en/Talentec-Bartop-Inches-Methacrylate-Controls/dp/B07HNX9H4S/ref=asc_df_B07HNX9H4S/?tag=begogshpadde-21&linkCode=df0&hvadid=633357320632&hvpos=&hvnetw=g&hvrand=8220109265919590890&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001042&hvtargid=pla-1728014739780&psc=1&gclid=CjwKCAjwx_eiBhBGEiwA15gLN4Y30Flcz2J4x_hvzBVcK5kueQBS1MGmHYYqLgzzCm-4YzgoY620LBoCGB8QAvD_BwE)
+
+Eventueel nog ten derde assets en components voor in de video game. Deze zijn nodig om de video game te kunnen maken aangezien niet alles gratis is.
+
+### Schatting van de prijs: 
+
+1. IoT componenten tussen de € 100 - € 500 - € ... afhankelijk van op welk budget dit concept uitgewerkt mag worden
+2. Zelfbouw arcade kast pakket met verzending +/- € 400
+3. Game assets tussen de € 10 - € 20
+
+**Totaal prijs zal volgens mijn ruwe schatting rond de € 650 zijn.**
+
+---
