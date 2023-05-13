@@ -83,3 +83,22 @@ Ten derde gezichtsfilters
 
 ---
 
+## **Vierde concept: Kenmerken van de vleermuis**
+### Het idee / concept
+Dit concept omvat het gebruik van een hologram fan om onze bezoekers een realistisch beeld te geven van de kenmerken van vleermuizen. We willen deze hologram fan combineren met informatieve opnames of video's, om zo een boeiende en educatieve ervaring te creëren. Met de hologram fan hebben we ontelbare mogelijkheden om onze bezoekers te verbazen en te informeren.
+
+### Wat hebben we nodig? 
+Ten eerste een (of meer) hologram fan(s)
+
+Ten tweede hulp bij het creëren van deze video's/geluids opnames
+   * informatie dat hierin moet komen
+   * editing van deze video
+   * ... 
+
+### Schatting van de prijs: 
+1. Hologram fan (per fan) tussen de € 60 - € 200 voor een budget optie
+2. (*Eventuele prijs voor het maken en editen van deze video's maar daar kan ik niet direct een prijs op plakken*)
+
+**Totaalprijs: wij hebben zelf ook een van deze fans aangeschaft om al eens mee te kunnen testen maar als deze goed werkt zou ik persoonlijk een aantal van deze fans zetten aangezien ze voor heel veel mogelijkheden kunnen zorgen. Persoonlijk zou ik zeggen een stuk of 5 dus tussen € 300 - € 500**
+
+---
