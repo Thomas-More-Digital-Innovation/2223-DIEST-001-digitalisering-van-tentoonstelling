@@ -1,6 +1,6 @@
 # Verdere concept uitwerking (Marnik Maes)
 
-## Eerste concept: POV van een vleermuis
+## **Eerste concept: POV van een vleermuis**
 ### Het idee / concept
 Een van onze innovatieve concepten om mensen een unieke en volledig gedigitaliseerde vleermuiservaring te bieden, omvat het gebruik van kartonnen VR-brillen en goedkope oortjes. Door verschillende videofragmenten om te vormen tot VR-fragmenten, kunnen mensen de levenscyclus van een vleermuis op een meeslepende manier leren kennen. Met onze betaalbare VR-technologie kunnen we deze ervaring toegankelijk maken voor een breder publiek en tegelijkertijd bijdragen aan het bewustzijn en begrip van deze fascinerende dieren.
 
@@ -33,7 +33,7 @@ Ten slotte een e .mp4-bestanden omvormen tot VR fragmenten: https://www.youtube.
 
 ---
 
-## Tweede concept: Wat eet een vleermuis arcade
+## **Tweede concept: Wat eet een vleermuis arcade**
 ### Het idee / concept
 
 Ons tweede concept omvat de ontwikkeling van een innovatieve arcadekast, waarin je het spel "Wat eet een vleermuis" kunt spelen. Dit unieke spel is gebaseerd op het populaire Osu catch-principe. In onze game zal de speler een vleermuis besturen met als doel heeft de juiste voedingsmiddelen op te rapen terwijl deze uit de lucht vallen. Voor elk correct opgepikt item verdient de speler punten, maar als hij het verkeerde item opraapt, verliest hij een leven. Elke speler krijgt drie levens, dus drie kansen om de hoogst mogelijke score te behalen.
@@ -59,3 +59,27 @@ Eventueel nog ten derde assets en components voor in de video game. Deze zijn no
 **Totaal prijs zal volgens mijn ruwe schatting rond de € 650 zijn.**
 
 ---
+
+## **Derde concept: Jij bent de vleermuis**
+### Het idee / concept
+Dit concept omvat het gebruik van een webcam en scherm voor een interactieve en leuke ervaring in onze tentoonstelling. Wanneer bezoekers langs het scherm wandelen, krijgen ze een grappige filter op hun gezicht van een vleermuis. Dit creëert een interactieve en vermakelijke ervaring voor jong en oud. Bovendien is het zeker mogelijk om dit concept uit te breiden door een volledige sonar-view van de kamer te tonen, waardoor bezoekers een idee krijgen van hoe een vleermuis de wereld ziet.
+
+### Wat hebben we nodig? 
+Ten eerste een medium tot groot scherm.
+   * Idaal zou tussen de 55-65 inch zijn volgens mij
+   * Aankopen is misschien niet nodig, aangezien er van deze schermen al beschikbaar waren
+
+Ten tweede een webcam
+   * Idealiter een webcam van op zijn mist 1080p
+
+Ten derde gezichtsfilters
+   * Deze kunnen geimplementeerd worden met OBS-studio of Streamlabs 
+
+### Schatting van de prijs: 
+1. Beeldscherm (*als het aangekocht zou moeten worden*) tussen € 200 - € 400
+2. Webcam tussen € 50 - € 100
+
+**Totaal prijs is afhankelijk van het beeldscherm, als dit niet aangekocht hoeft te worden kan de prijs onder de € 100 zijn, als dit toch aangekocht moet worden zal het rond de € 400 zijn**
+
+---
+
