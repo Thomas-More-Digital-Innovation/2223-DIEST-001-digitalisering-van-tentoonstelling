@@ -102,3 +102,24 @@ Ten tweede hulp bij het creëren van deze video's/geluids opnames
 **Totaalprijs: wij hebben zelf ook een van deze fans aangeschaft om al eens mee te kunnen testen maar als deze goed werkt zou ik persoonlijk een aantal van deze fans zetten aangezien ze voor heel veel mogelijkheden kunnen zorgen. Persoonlijk zou ik zeggen een stuk of 5 dus tussen € 300 - € 500**
 
 ---
+
+## Vijfde concept: AR app 
+### Het idee / concept
+Dit concept omvat het gebruik van een AR-applicatie op de smartphones van onze bezoekers. Voordat ze de tentoonstelling betreden, worden ze gevraagd om de app te installeren, waarmee ze toegang krijgen tot verschillende AR-functionaliteiten. Gedurende de tentoonstelling zullen er scanbare foto's, objecten, en meer aanwezig zijn. Wanneer bezoekers deze items scannen met behulp van de app, worden ze beloond met een AR-beeld dat gerelateerd is aan de gescande foto, zoals een röntgenbeeld van een vleermuis of visualisaties van verschillende vleermuissoorten.
+
+Dit concept biedt bijna onbeperkte mogelijkheden voor uitbreiding. We kunnen nieuwe foto's, objecten en informatie toevoegen om de ervaring continu te vernieuwen en te verrijken. Dit zorgt voor een interactieve en educatieve ervaring die de nieuwsgierigheid en betrokkenheid van de bezoekers stimuleert.
+
+### Wat hebben we nodig? 
+Ten eerste verwachten we dan wel dat elke bezoeker over een smartphone beschikt waarop het installeren van deze applicatie mogelijk is.
+
+Ten tweede de AR applicatie die zowel werkt op Android als IOS toestellen.
+
+Ten derde AR-content: Om de AR-functionaliteiten te ondersteunen, moet er AR-content worden gecreëerd. Dit omvat 3D-modellen, animaties, video's of informatieve tekst die wordt geactiveerd wanneer een foto of object wordt gescand. Deze content moet op een boeiende en educatieve manier de kenmerken van vleermuizen en hun leefomgeving presenteren.
+
+### Schatting van de prijs:
+Het is op deze moment zeer moeilijk om hier een prijskaarte op te plakken maar er zijn wel enkele zaker waar we rekening mee moeten houden: 
+1. Technologie en tools: Er kunnen kosten verbonden zijn aan de aanschaf van AR-ontwikkelingstools en -software, evenals aan de gebruikte technologieën zoals AR-frameworks, platforms en bibliotheken.
+2. Contentcreatie: Het ontwikkelen van de AR-content, zoals 3D-modellen, animaties en video's, kan extra kosten met zich meebrengen, afhankelijk van de complexiteit en de benodigde middelen om deze te produceren.
+3. Testen en iteraties: Het is belangrijk om voldoende tijd en middelen te reserveren voor het testen van de app en het doorvoeren van eventuele iteraties of verbeteringen op basis van gebruikersfeedback.
+
+---
