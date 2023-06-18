@@ -22,6 +22,6 @@ Een maquette gebruiken om een beter perspectief te bieden op de vestingstad Dies
 
 1. 3D printer: 
    * Op de grootste afmeting dat we kunnen met onze printer. Als het door een student wordt uitgetekend:
-      * 692 gram filament = +/- 15 euro
+      * 692 gram filament = +/- 23 euro
       * Als we het modelleren uitbesteden via fiverr
         * +/- 50 euro    
