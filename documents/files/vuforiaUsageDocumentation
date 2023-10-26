@@ -1,0 +1,21 @@
+Vuforia
+Plugin voor Unity om makkelijk AR toepassingen te maken en te builden naar mobile sdk.
+
+Unity :
+Add AR Camera
+Add ImageTarget
+Sleep object in Image target
+
+https://www.youtube.com/watch?v=Z4bBMpa4xWo&ab_channel=Vuforia%2CaPTCTechnology
+
+Dan build settings in unity, build for ios
+Open met xcode
+Signing op eigen account/team & bundle indentifier (com.siebecamerman.vuforiaTestProject)
+
+Probleem:
+Kan geen toegang geven tot iphone camera 
+Opgelost:
+Unity Player Settings: Double-check the Unity Player Settings. Ensure that you have the correct "Camera Usage Description" set in the Player Settings. This description is what will be displayed in the permission prompt, and it should be clear and informative. To set it, go to Edit > Project Settings > Player > iOS > Other Settings, and find the "Camera Usage Description" field.
+
+Conclusie:
+Dus eigenlijk de settings goed zetten en dan is het plug and play
