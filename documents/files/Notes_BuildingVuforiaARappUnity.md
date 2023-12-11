@@ -36,6 +36,7 @@ This documentation guides you through the process of creating a Proof of Concept
 3. Select the specific Image Target from the downloaded database.
 
 ## Step 5: Place Objects on the Image Target
+I have designed custom objects using Fusion 360 and integrated them into the app.
 
 1. Drag the desired object from the 'Assets' onto the Image Target in the scene.
 2. Position and scale the object so that it is clearly visible on the Image Target.
