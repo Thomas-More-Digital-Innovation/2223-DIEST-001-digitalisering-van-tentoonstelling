@@ -14,6 +14,9 @@ Het doel van onze interactieve kaart is om met behulp van Augmented Reality (AR)
 
 Deze aanpak stelt gebruikers in staat om op een interactieve manier met een bestaand object om te gaan, waarbij de fysieke kaart wordt verrijkt en verlevendigd door AR-technologie.
 
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)]([https://www.youtube.com/watch?v=UmX4kyB2wfg](https://www.youtube.com/shorts/MisVGGbHBtw))
+
+
 ### Oplevering van onze projectscope?
 
 De afsluiting van ons project omvat de volgende stappen: 
