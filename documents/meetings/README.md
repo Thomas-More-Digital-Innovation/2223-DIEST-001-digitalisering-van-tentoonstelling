@@ -1,7 +1,6 @@
 # Meetings
 
 This folder is intended to hold all the files related to the SCRUM flow.  
-Documents should be written in the markdown format.
 
 ## All meetings in order
 
@@ -11,7 +10,7 @@ Documents should be written in the markdown format.
 * [Present current POC's 29-11-2023](./meeting-on-location-29-11-23.md)
 * Final presentation: TBA
 
-### Meetings with DI coach (Weekly status meetings)
+### Meetings with DI coach
 * [Meeting 04-05-2023](./meeting-coach-04-05-2023.md)
 * [Meeting 11-05-2023](./meeting-coach-11-05-2023.md)
 * [Meeting 04-10-2023](./meeting-coach-04-10-23.md)
