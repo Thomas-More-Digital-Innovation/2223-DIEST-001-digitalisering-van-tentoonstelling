@@ -63,4 +63,3 @@ I have designed custom objects using Fusion 360 and integrated them into the app
 
 With the right settings in Unity and Vuforia, developing an AR application is a plug-and-play process. Make sure all steps are followed carefully, and you should have a working Proof of Concept. Don't forget to regularly consult the official documentation of Unity and Vuforia for any updates and additional information.
 
-*created by Marnik Maes*
