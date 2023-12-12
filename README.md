@@ -14,8 +14,9 @@ Het doel van onze interactieve kaart is om met behulp van Augmented Reality (AR)
 
 Deze aanpak stelt gebruikers in staat om op een interactieve manier met een bestaand object om te gaan, waarbij de fysieke kaart wordt verrijkt en verlevendigd door AR-technologie.
 
-[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)]([https://www.youtube.com/watch?v=UmX4kyB2wfg](https://www.youtube.com/shorts/MisVGGbHBtw))
+https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/fda7c82e-4eb0-4670-9cff-fff9c7577373
 
+https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/cd240452-afd2-4eb4-93eb-8de97be92bca
 
 ### Oplevering van onze projectscope?
 
