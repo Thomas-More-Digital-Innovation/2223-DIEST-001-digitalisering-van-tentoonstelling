@@ -55,3 +55,5 @@ ZapWorks is gebruiksvriendelijk en kan aantrekkelende resultaten opleveren, maar
 
 #### 8th Wall - Conclusie
 8th Wall is een krachtige AR-ontwikkelingstool die flexibiliteit biedt voor ontwikkelaars en ontwerpers. Het ondersteunt zowel webgebaseerde AR als mobiele AR en omvat een breed scala aan geavanceerde functies, waaronder wereldtracking, beeldherkenning en een Visual Positioning System. De prijs van 8th Wall is aanzienlijk lager dan sommige andere AR-tools, wat het een aantrekkelijke optie maakt voor projecten met beperkte financiële middelen. Met zijn nadruk op gebruikersgerichte en interactieve ervaringen, en de mogelijkheid om AR-content rechtstreeks in webbrowsers te delen, is 8th Wall een veelbelovend alternatief voor complexere AR-tools zoals ARKit en ARCore.
+
+*created by Marnik Maes*

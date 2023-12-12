@@ -62,6 +62,9 @@ that Godot is the perfect engine to bring your 2D game ideas to life.
 * [Godot Documentation](https://docs.godotengine.org/en/stable/)
 * [Godot Asset Library](https://godotengine.org/asset-library/asset)
 
+*created by Marnik Maes*
+
+
 
 
 
