@@ -95,3 +95,5 @@ Om een POC in Unity te maken, moet je eerst een duidelijk idee hebben van wat je
 Daarnaast kun je gebruik maken van gratis 3D-modellen en assets die beschikbaar zijn op de Unity Asset Store of zelfgemaakte 3D-modellen en assets om je AR-ervaring te verbeteren en aan te passen aan je specifieke vereisten.
 
 Met behulp van tutorials en online resources, zoals de video's hierboven genoemd, kun je snel en gemakkelijk je eigen AR-POC maken in Unity, waarmee je jouw ideeën en concepten kunt demonstreren en laten zien hoe deze werken in de echte wereld.
+
+*created by Marnik Maes*

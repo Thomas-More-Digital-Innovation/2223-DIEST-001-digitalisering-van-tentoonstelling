@@ -94,5 +94,6 @@ For adding more buttons, the process is straightforward. Simply duplicate the bu
 
 Enjoy exploring the possibilities of your augmented reality application, and feel free to customize and enhance it further to suit your project's unique requirements.
 
----
+*Created by Marnik Maes*
+
 

@@ -25,3 +25,5 @@ Geavanceerde modellen: Deze modellen kunnen variëren van €1000 tot €5000 of
 Enkele budget hologram fans met goede beoordelingen: 
 * Hologram fan 1 (4 blades): [3D HD Hologram Fan Projector](https://www.aliexpress.com/item/1005004524022989.html?spm=a2g0o.productlist.main.21.7c035de2plsIep&algo_pvid=12eb691b-fa80-4c40-a06c-b6304eca4869&algo_exp_id=12eb691b-fa80-4c40-a06c-b6304eca4869-10&pdp_npi=3%40dis%21EUR%2197.56%2152.88%21%21%21%21%21%402145277316832825302273448d07b5%2112000029469442959%21sea%21BE%210&curPageLogUid=5joOfegM3vpj) - Prijs: €53
 * Hologram fan 2 (2 blades): [3d Fan Hologram Projector](https://www.aliexpress.com/item/1005002085354552.html?spm=a2g0o.order_list.0.0.21ef1802yHYjwh&aff_fcid=16a027929644458b8d6165aa31e45421-1683282721918-04995-_AMf4jp&tt=CPS_NORMAL&aff_fsk=_AMf4jp&aff_platform=portals-tool&sk=_AMf4jp&aff_trace_key=16a027929644458b8d6165aa31e45421-1683282721918-04995-_AMf4jp&terminal_id=b03e205cf78449cea206888f5b108078&afSmartRedirect=y) - Prijs: €60 - [video link](https://youtu.be/bT716nyK0AY)
+
+*created by Marnik Maes*

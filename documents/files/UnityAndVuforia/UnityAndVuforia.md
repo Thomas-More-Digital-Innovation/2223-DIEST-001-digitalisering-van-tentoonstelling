@@ -63,6 +63,8 @@ Avoids having to go into the Unity Developer Portal at all, expect for the licen
 1. Add the asset/model (fbx format) -> drag and drop into assets folder -> drag and drop asset into the imageTarget that is in the Unity scene -> Asset will become child asset of imageTarget
 2. Use the Unity play mode to test the project
 
+*created by Marnik Maes*
+
 
 
 
