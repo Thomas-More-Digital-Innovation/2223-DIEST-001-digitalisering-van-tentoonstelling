@@ -14,6 +14,8 @@ Het doel van onze interactieve kaart is om met behulp van Augmented Reality (AR)
 
 Deze aanpak stelt gebruikers in staat om op een interactieve manier met een bestaand object om te gaan, waarbij de fysieke kaart wordt verrijkt en verlevendigd door AR-technologie.
 
+De downloadbare apk voor dit project kan je [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/tree/main/code/download) terugvinden, de image target (kaart van diest) kan je [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/blob/main/documents/pictures/Diest-Map-Resize.jpg) terugvinden
+
 https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/fda7c82e-4eb0-4670-9cff-fff9c7577373
 
 https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/cd240452-afd2-4eb4-93eb-8de97be92bca
