@@ -19,3 +19,4 @@ This folder is intended to hold all the files related to the SCRUM flow.
 * [Meeting 15-11-2023](./meeting-coach-15-11-2023.md)
 * [Meeting 22-11-2023](./meeting-coach-22-11-2023.md)
 * [Meeting 06-12-2023](./meeting-coach-06-12-2023.md)
+* [Meeting 13-12-2023](./meeting-coach-13-12-2023.md)
