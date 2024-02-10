@@ -31,15 +31,19 @@ De afsluiting van ons project omvat de volgende stappen:
 2. **Downloadbare APK voor Testdoeleinden:**
    - Beschikbaar voor Android-apparaten.
    - Hiermee kan de app op mobiele telefoons worden getest.
+   - Deze kan [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/blob/main/code/download) terug gevonden worden
 
 3. **Documentatie over de Gebruikte Toolset:**
    - Een gedetailleerd overzicht van de gebruikte ontwikkeltools en technologieën.
+   - Deze documenten kunnen [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/tree/main/documents/files) terug gevonden worden
 
 4. **Documentatie over Zelfgevonden Oplossingen:**
    - Inzichten en oplossingen die we hebben ontdekt tijdens het ontwikkelingsproces.
+   - Deze documenten kunnen [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/tree/main/documents/files) terug gevonden worden
 
 5. **Tech Talk voor 2DI (Academiejaar 2023-2024):**
    - Een presentatie die dieper ingaat op de werking van de toolset, inclusief een demonstratie.
+   - Deze presentatie kan [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/blob/main/documents/files/4_Presentations/Unity%20with%20Vuforia%20for%20AR%20%20application.pdf) terug gevonden worden
 
 Dit vormt de essentie van onze projectoplevering en kan beschouwd worden als een uitgebreide basis. Hiermee streven we ernaar een afgerond en goed gedocumenteerd resultaat te presenteren, dat tevens als een solide fundament dient voor toekomstig gebruik en verdere ontwikkeling door anderen.
 
