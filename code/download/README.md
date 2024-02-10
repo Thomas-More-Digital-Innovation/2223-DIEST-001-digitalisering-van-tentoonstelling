@@ -20,6 +20,3 @@ Hier kan u de laatste versie van de app terugvinden in APK vorm, volg de onderst
 
 Dat is alles! Je hebt nu succesvol een APK-bestand gedownload en geïnstalleerd op je Android-telefoon via onze GitHub-repository.
 
-Hier kan u ook kort een video terugvinden die uitlegt hoe u dit kan doen:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ehlzt2OXI4c" frameborder="0" allowfullscreen></iframe>
-
