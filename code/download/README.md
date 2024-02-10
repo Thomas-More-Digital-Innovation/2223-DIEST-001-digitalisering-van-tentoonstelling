@@ -19,3 +19,7 @@ Hier kan u de laatste versie van de app terugvinden in APK vorm, volg de onderst
 9. **Voltooien:** Na een paar seconden wordt de installatie voltooid en krijg je de optie om de app te openen. Tik op "Openen" om de app te starten of ga naar je app-lade om de geïnstalleerde app te vinden en te openen.
 
 Dat is alles! Je hebt nu succesvol een APK-bestand gedownload en geïnstalleerd op je Android-telefoon via onze GitHub-repository.
+
+Hier kan u ook kort een video terugvinden die uitlegt hoe u dit kan doen:
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ehlzt2OXI4c" frameborder="0" allowfullscreen></iframe>
+
