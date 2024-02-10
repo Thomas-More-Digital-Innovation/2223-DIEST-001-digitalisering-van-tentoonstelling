@@ -20,3 +20,11 @@ Hier kan u de laatste versie van de app terugvinden in APK vorm, volg de onderst
 
 Dat is alles! Je hebt nu succesvol een APK-bestand gedownload en geïnstalleerd op je Android-telefoon via onze GitHub-repository.
 
+Hieronder ook nog even kort een video voorbeeld van hoe u deze APK kan downloaden.
+
+https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/87ba8e97-940c-4f8f-bb01-ee906b91e815
+
+https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/d5f4b4b1-9b28-4d1e-b8be-1a0ffbab5baa
+
+https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/assets/91118430/92016863-8baa-442b-8096-30e89ab218e6
+
