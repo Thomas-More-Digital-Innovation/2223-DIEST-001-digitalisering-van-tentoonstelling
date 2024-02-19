@@ -46,3 +46,34 @@ De afsluiting van ons project omvat de volgende stappen:
    - Deze presentatie kan [HIER](https://github.com/Thomas-More-Digital-Innovation/2223-DIEST-001-digitalisering-van-tentoonstelling/blob/main/documents/files/4_Presentations/Unity%20with%20Vuforia%20for%20AR%20%20application.pdf) terug gevonden worden
 
 Dit vormt de essentie van onze projectoplevering en kan beschouwd worden als een uitgebreide basis. Hiermee streven we ernaar een afgerond en goed gedocumenteerd resultaat te presenteren, dat tevens als een solide fundament dient voor toekomstig gebruik en verdere ontwikkeling door anderen.
+
+# Release Notes - Digitalisering van tentoonstelling voor Diest
+
+## Versie 1.0.0
+
+**Datum:** 19/02/2024
+
+### Nieuwe functies toegevoegd:
+- Afgewerkte Proof of Concept (POC) van de Interactieve Kaart:
+  - Inclusief geïntegreerde 3D-elementen.
+  - Interactieve knoppen voor informatieoverdracht.
+
+### Verbeteringen:
+- Documentatie over de Gebruikte Toolset:
+  - Een gedetailleerd overzicht van de gebruikte ontwikkeltools en technologieën.
+- Documentatie over Zelfgevonden Oplossingen:
+  - Inzichten en oplossingen die we hebben ontdekt tijdens het ontwikkelingsproces.
+- Tech Talk voor 2DI (Academiejaar 2023-2024):
+  - Een presentatie die dieper ingaat op de werking van de toolset, inclusief een demonstratie.
+
+### Opmerkingen:
+- De downloadbare apk voor testdoeleinden is beschikbaar voor Android-apparaten.
+- Zie de README voor meer informatie over het gebruik van de app en het uitvoeren van de Proof of Concept.
+
+We hopen dat deze release een stap voorwaarts is in het digitaliseren van de tentoonstelling voor de stad Diest en dat het een solide basis biedt voor verdere ontwikkeling en gebruik.
+
+Voor eventuele vragen of feedback kunt u contact opnemen met ons team.
+
+Dank je wel!
+
+Siebe en Marnik
